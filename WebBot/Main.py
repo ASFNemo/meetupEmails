@@ -16,6 +16,7 @@ groups_visited = {}
 groups_to_visit = []
 group_request_sent = 0
 
+
 def main():
 
     browser = webdriver.Firefox()
